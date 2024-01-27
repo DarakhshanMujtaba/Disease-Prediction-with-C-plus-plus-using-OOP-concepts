@@ -1,0 +1,39 @@
+
+ 			 ****** User Information ******  
+
+First Name: Darakhshan
+Last Name: Mujtaba
+Symptom: fever
+Age: 19
+Predicted Disease: You might have influenza (Flu), allergies common cold 
+
+
+
+ 		 ---------------------------------------------- 
+
+
+ 			 ****** User Information ******  
+
+First Name: Alishba
+Last Name: Anwar
+Symptom: severe headache
+Age: 19
+Predicted Disease: You might have influenza (Flu), covid-19, malaria, typhoid
+
+
+
+ 		 ---------------------------------------------- 
+
+
+ 			 ****** User Information ******  
+
+First Name: Faria
+Last Name: Umer
+Age: 19
+Symptom: weight gain
+Predicted Disease: You might have Lyme Disease and Rheumatoid Arthritis
+
+
+
+ 		 ---------------------------------------------- 
+
