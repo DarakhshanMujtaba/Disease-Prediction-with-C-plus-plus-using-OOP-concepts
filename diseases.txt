@@ -1,0 +1,5 @@
+Dengue
+malaria
+flu
+typhoid
+covid-19
